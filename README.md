@@ -64,7 +64,7 @@ DESCRIPTION HERE<p>
 </tr>
 <tr>
 <td colspan="4">
-<a href="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Preparing%20an%20SQL%20database/academy_awards.ipynb">Visualizing Pixar's Rollercoaster</a>
+<a href="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Visualizing%20Pixar-s%20Rollercoaster/Pixar.ipynb">Visualizing Pixar's Rollercoaster</a>
 </td>
 </tr>
 <tr>
@@ -103,9 +103,9 @@ DESCRIPTION HERE<p>
 <tr>
 <td colspan="4">
 <ul>
-<li>recent-grads.csv</li>
+<li>PixarMovies.csv</li>
 </ul>
-<p>Dataset supplied by <a href='https://www.dataquest.io'>Dataquest.io</a>
+<p>Dataset supplied by <a href='https://paulovasconcellos.com.br/a-study-about-pixars-movies-and-its-influence-on-oscar-data-science-project-c3f4cdeea803'>Paulo Vasconcellos</a>
 </td>
 </tr>
 </table>
@@ -209,9 +209,9 @@ DESCRIPTION HERE<p>
 <tr>
 <td colspan="4">
 <ul>
-<li>recent-grads.csv</li>
+<li>academy_awards.csv</li>
 </ul>
-<p>Dataset supplied by <a href='https://www.dataquest.io'>Dataquest.io</a>
+<p>Dataset supplied by <a href='https://www.aggdata.com/awards/oscar'>AggData</a>
 </td>
 </tr>
 </table>
