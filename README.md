@@ -1,5 +1,59 @@
 <p align='center'><a href='https://www.dataquest.io/view_cert/MY9CHSWJZB9PL06RQ7HP/'><img src='https://github.com/BStaff1986/Dataquest-Assignments/blob/master/cert.png' alt='Certificate of Completion - Bryan Stafford'></a></p>
 
+<table>
+<tr></tr>
+<tr>
+<td colspan="4"><b>Project</b></td>
+</tr>
+<tr>
+<td colspan="4">
+<a href="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Police%20Killings/police_killings.ipynb">Police Killings</a>
+</td>
+</tr>
+<tr>
+<td><b>Path</b></td>
+<td><b>Module</b></td>
+<td><b>Course</b></td>
+<td><b>Date</b></td>
+</tr>
+<tr>
+<td>
+Data Analyst
+</td>
+<td>
+Intermediate Pandas and Python
+</td>
+<td>
+Exploratory Data Visualization
+</td>
+<td>
+July 20th, 2016
+</td>
+</tr>
+<tr>
+<td colspan="4"><b>Description</b></td>
+</tr>
+<tr>
+<td colspan="4">
+
+DESCRIPTION HERE<p>
+<img src="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Police%20Killings/images/police_killings.png" width="350">
+<img src="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Police%20Killings/images/police_killings2.png" width="350"><br>
+</td>
+</tr>
+<tr>
+<td colspan="4"><b>Datasets</b></td>
+</tr>
+<tr>
+<td colspan="4">
+<ul>
+<li>police_killings.csv</li>
+<li>state_population.csv</li>
+</ul>
+<p>Datasets supplied by <a href='https://github.com/fivethirtyeight/data/tree/master/police-killings'>FiveThirtyEight</a> and the <a href='https://www2.census.gov/programs-surveys/popest/datasets/2010-2015/state/asrh/'>US Census Bureau</a>
+</td>
+</tr>
+</table>
 
 <table>
 <tr></tr>
@@ -61,62 +115,6 @@ In this guided project, I downloaded several datasets containing information abo
 </td>
 </tr>
 </table>
-
-
-<table>
-<tr></tr>
-<tr>
-<td colspan="4"><b>Project</b></td>
-</tr>
-<tr>
-<td colspan="4">
-<a href="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Police%20Killings/police_killings.ipynb">Police Killings</a>
-</td>
-</tr>
-<tr>
-<td><b>Path</b></td>
-<td><b>Module</b></td>
-<td><b>Course</b></td>
-<td><b>Date</b></td>
-</tr>
-<tr>
-<td>
-Data Analyst
-</td>
-<td>
-Intermediate Pandas and Python
-</td>
-<td>
-Exploratory Data Visualization
-</td>
-<td>
-July 20th, 2016
-</td>
-</tr>
-<tr>
-<td colspan="4"><b>Description</b></td>
-</tr>
-<tr>
-<td colspan="4">
-
-DESCRIPTION HERE
-
-</td>
-</tr>
-<tr>
-<td colspan="4"><b>Datasets</b></td>
-</tr>
-<tr>
-<td colspan="4">
-<ul>
-<li>police_killings.csv</li>
-<li>state_population.csv</li>
-</ul>
-<p>Datasets supplied by <a href='https://github.com/fivethirtyeight/data/tree/master/police-killings'>FiveThirtyEight</a> and the <a href='https://www2.census.gov/programs-surveys/popest/datasets/2010-2015/state/asrh/'>US Census Bureau</a>
-</td>
-</tr>
-</table>
-
 
 <table>
 <tr></tr>
