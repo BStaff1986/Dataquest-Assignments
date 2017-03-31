@@ -1,4 +1,4 @@
-<p align='center'><img src='https://github.com/BStaff1986/Dataquest-Assignments/blob/master/cert.png?raw=true' alt='Certificate of Completion - Bryan Stafford'></p>
+<p align='center'><a href='https://www.dataquest.io/view_cert/MY9CHSWJZB9PL06RQ7HP/'><img src='https://github.com/BStaff1986/Dataquest-Assignments/blob/master/cert.png' alt='Certificate of Completion - Bryan Stafford'></a></p>
 
 <table>
 <tr></tr>
