@@ -1,5 +1,7 @@
 <p align='center'><a href='https://www.dataquest.io/view_cert/MY9CHSWJZB9PL06RQ7HP/'><img src='https://github.com/BStaff1986/Dataquest-Assignments/blob/master/cert.png' alt='Certificate of Completion - Bryan Stafford'></a></p>
 
+
+
 <table>
 <tr></tr>
 <tr>
@@ -24,7 +26,7 @@ Data Analyst
 Intermediate Pandas and Python
 </td>
 <td>
-Exploratory Data Visualization
+Data Analysis With Pandas: Intermediate
 </td>
 <td>
 July 20th, 2016
@@ -37,8 +39,8 @@ July 20th, 2016
 <td colspan="4">
 
 DESCRIPTION HERE<p>
-<img src="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Police%20Killings/images/police_killings.png" width="350">
-<img src="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Police%20Killings/images/police_killings2.png" width="350"><br>
+<p align="center"><img src="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Police%20Killings/images/police_killings.png" width="350">
+<img src="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Police%20Killings/images/police_killings2.png" width="350"></p><br>
 </td>
 </tr>
 <tr>
@@ -51,6 +53,218 @@ DESCRIPTION HERE<p>
 <li>state_population.csv</li>
 </ul>
 <p>Datasets supplied by <a href='https://github.com/fivethirtyeight/data/tree/master/police-killings'>FiveThirtyEight</a> and the <a href='https://www2.census.gov/programs-surveys/popest/datasets/2010-2015/state/asrh/'>US Census Bureau</a>
+</td>
+</tr>
+</table>
+
+<table>
+<tr></tr>
+<tr>
+<td colspan="4"><b>Project</b></td>
+</tr>
+<tr>
+<td colspan="4">
+<a href="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Preparing%20an%20SQL%20database/academy_awards.ipynb">Visualizing Pixar's Rollercoaster</a>
+</td>
+</tr>
+<tr>
+<td><b>Path</b></td>
+<td><b>Module</b></td>
+<td><b>Course</b></td>
+<td><b>Date</b></td>
+</tr>
+<tr>
+<td>
+Data Analyst
+</td>
+<td>
+Intermediate Python And Pandas
+</td>
+<td>
+Exploratory Data Visualization
+</td>
+<td>
+July 22nd, 2016
+</td>
+</tr>
+<tr>
+<td colspan="4"><b>Description</b></td>
+</tr>
+<tr>
+<td colspan="4">
+
+DESCRIPTION HERE<p>
+<p align="center"><img src="" width="350">
+</td>
+</tr>
+<tr>
+<td colspan="4"><b>Datasets</b></td>
+</tr>
+<tr>
+<td colspan="4">
+<ul>
+<li>recent-grads.csv</li>
+</ul>
+<p>Dataset supplied by <a href='https://www.dataquest.io'>Dataquest.io</a>
+</td>
+</tr>
+</table>
+
+<table>
+<tr></tr>
+<tr>
+<td colspan="4"><b>Project</b></td>
+</tr>
+<tr>
+<td colspan="4">
+<a href="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Projects%20-%20Customizing%20Data%20Visualizations/Basics.ipynb">Custom Data Visualization</a>
+</td>
+</tr>
+<tr>
+<td><b>Path</b></td>
+<td><b>Module</b></td>
+<td><b>Course</b></td>
+<td><b>Date</b></td>
+</tr>
+<tr>
+<td>
+Data Analyst
+</td>
+<td>
+Intermediate Pandas and Python
+</td>
+<td>
+Exploratory Data Visualization
+</td>
+<td>
+July 23rd, 2016
+</td>
+</tr>
+<tr>
+<td colspan="4"><b>Description</b></td>
+</tr>
+<tr>
+<td colspan="4">
+
+DESCRIPTION HERE<p>
+<p align="center"><img src="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Projects%20-%20Customizing%20Data%20Visualizations/images/four_ax.png" width="350">
+</td>
+</tr>
+<tr>
+<td colspan="4"><b>Datasets</b></td>
+</tr>
+<tr>
+<td colspan="4">
+<ul>
+<li>recent-grads.csv</li>
+</ul>
+<p>Dataset supplied by <a href='https://www.dataquest.io'>Dataquest.io</a>
+</td>
+</tr>
+</table>
+
+<table>
+<tr></tr>
+<tr>
+<td colspan="4"><b>Project</b></td>
+</tr>
+<tr>
+<td colspan="4">
+<a href="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Preparing%20an%20SQL%20database/academy_awards.ipynb">Preparing an SQL database</a>
+</td>
+</tr>
+<tr>
+<td><b>Path</b></td>
+<td><b>Module</b></td>
+<td><b>Course</b></td>
+<td><b>Date</b></td>
+</tr>
+<tr>
+<td>
+Data Analyst
+</td>
+<td>
+Working With Data Sources
+</td>
+<td>
+SQL And Databases: Intermediate
+</td>
+<td>
+August 13th, 2016
+</td>
+</tr>
+<tr>
+<td colspan="4"><b>Description</b></td>
+</tr>
+<tr>
+<td colspan="4">
+
+DESCRIPTION HERE<p>
+<p align="center"><img src="" width="350">
+</td>
+</tr>
+<tr>
+<td colspan="4"><b>Datasets</b></td>
+</tr>
+<tr>
+<td colspan="4">
+<ul>
+<li>recent-grads.csv</li>
+</ul>
+<p>Dataset supplied by <a href='https://www.dataquest.io'>Dataquest.io</a>
+</td>
+</tr>
+</table>
+
+<table>
+<tr></tr>
+<tr>
+<td colspan="4"><b>Project</b></td>
+</tr>
+<tr>
+<td colspan="4">
+<a href="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Preparing%20an%20SQL%20database/academy_awards.ipynb">Preparing an SQL database</a>
+</td>
+</tr>
+<tr>
+<td><b>Path</b></td>
+<td><b>Module</b></td>
+<td><b>Course</b></td>
+<td><b>Date</b></td>
+</tr>
+<tr>
+<td>
+Data Analyst
+</td>
+<td>
+Working With Data Sources
+</td>
+<td>
+SQL And Databases: Intermediate
+</td>
+<td>
+August 28th, 2016
+</td>
+</tr>
+<tr>
+<td colspan="4"><b>Description</b></td>
+</tr>
+<tr>
+<td colspan="4">
+
+DESCRIPTION HERE<p>
+<p align="center"><img src="" width="350">
+</td>
+</tr>
+<tr>
+<td colspan="4"><b>Datasets</b></td>
+</tr>
+<tr>
+<td colspan="4">
+<ul>
+<li>recent-grads.csv</li>
+</ul>
+<p>Dataset supplied by <a href='https://www.dataquest.io'>Dataquest.io</a>
 </td>
 </tr>
 </table>
