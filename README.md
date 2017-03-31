@@ -170,7 +170,7 @@ DESCRIPTION HERE<p>
 </tr>
 <tr>
 <td colspan="4">
-<a href="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Preparing%20an%20SQL%20database/academy_awards.ipynb">Preparing an SQL database</a>
+<a href="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Preparing%20an%20SQL%20database/academy_awards.ipynb">Preparing Data For SQLite</a>
 </td>
 </tr>
 <tr>
@@ -223,7 +223,7 @@ DESCRIPTION HERE<p>
 </tr>
 <tr>
 <td colspan="4">
-<a href="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Preparing%20an%20SQL%20database/academy_awards.ipynb">Preparing an SQL database</a>
+<a href="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Preparing%20an%20SQL%20database/academy_awards.ipynb">Creating Relations In SQLite</a>
 </td>
 </tr>
 <tr>
@@ -253,7 +253,7 @@ August 28th, 2016
 <td colspan="4">
 
 DESCRIPTION HERE<p>
-<p align="center"><img src="" width="350">
+
 </td>
 </tr>
 <tr>
@@ -262,9 +262,9 @@ DESCRIPTION HERE<p>
 <tr>
 <td colspan="4">
 <ul>
-<li>recent-grads.csv</li>
+<li>academy_awards.csv</li>
 </ul>
-<p>Dataset supplied by <a href='https://www.dataquest.io'>Dataquest.io</a>
+<p>Dataset supplied by <a href='https://www.aggdata.com/awards/oscar'>AggData</a>
 </td>
 </tr>
 </table>
