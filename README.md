@@ -85,7 +85,10 @@ September 28th, 2016
 </tr>
 <tr>
 <td colspan="4">
+
 In this guided project, I downloaded several datasets containing information about New York City schools including data such as class sizes, SAT scores, racial demographics, and even school reviews from parents, students, and teachers. Correlations were analyzed with a heatmap. Schools grouped by district with their reported safety scores averaged and then plotted onto a map with color-coordinated dots. The dots suggested some skewness to the report scores and so a bell curve of report scores was graphed and analyzed.
+<img src="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Analyzing%20NYC%20HS%20data/images/heatmap.png">
+<img src="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Analyzing%20NYC%20HS%20data/images/nyc.png"><br>
 </td>
 </tr>
 <tr>
