@@ -9,24 +9,23 @@
 </td>
 </tr>
 <tr>
+<td><b>Path</b></td>
+<td><b>Module</b></td>
+<td><b>Course</b></td>
 <td><b>Date</b></td>
-<td><b>Expertise</b></td>
-<td><b>Tools</b></td>
-<td><b>Industry</b></td>
 </tr>
 <tr>
 <td>
+Data Scientist
+</td>
+<td>
+Machine Learning
+</td>
+<td>
+Decision Trees
+</td>
+<td>
 September 29th, 2016
-</td>
-<td>
-Exploratory Analysis
-</td>
-<td>
-Python<br>
-SK Learn
-</td>
-<td>
-Transportation
 </td>
 </tr>
 <tr>
@@ -38,7 +37,18 @@ Transportation
 <p>Data:</p>
 </td>
 </tr>
+<tr>
+<td colspan="4"><b>Dataset</b></td>
+</tr>
+<tr>
+<td colspan="4">
+<ul>
+<li>ENTER DATASET HERE</li>
+</ul>
+</td>
+</tr>
 </table>
+
 
 <table>
 <tr></tr>
@@ -51,23 +61,23 @@ Transportation
 </td>
 </tr>
 <tr>
+<td><b>Path</b></td>
+<td><b>Module</b></td>
+<td><b>Course</b></td>
 <td><b>Date</b></td>
-<td><b>Expertise</b></td>
-<td><b>Tool</b></td>
-<td><b>Industry</b></td>
 </tr>
 <tr>
 <td>
+Data Analyst
+</td>
+<td>
+Intermediate Pandas and Python
+</td>
+<td>
+Data Cleaning
+</td>
+<td>
 September 28th, 2016
-</td>
-<td>
-Exploratory Analysis
-</td>
-<td>
-Python
-</td>
-<td>
-Entertainment
 </td>
 </tr>
 <tr>
@@ -84,17 +94,10 @@ In this guided project, I downloaded several datasets containing information abo
 <tr>
 <td colspan="4">
 <ul>
-<li>Details the deaths of Marvel comic book characters between the time they joined the Avengers and April 30, 2015, the week before Secret Wars #1. <a href="https://github.com/fivethirtyeight/data/tree/master/avengers" target="_blank">[link]</a></li>
+<li>ENTER DATASET HERE</li>
 </ul>
 </td>
 </tr>
 </table>
 
-# Dataquest-Guided Projects
-
-1. Predicting Bike Rentals
-     
-  
-2. 
-    
     
