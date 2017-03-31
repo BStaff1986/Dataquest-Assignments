@@ -1,3 +1,5 @@
+<p align='center'><img src='https://github.com/BStaff1986/Dataquest-Assignments/blob/master/cert.png?raw=true' alt='Certificate of Completion - Bryan Stafford'></p>
+
 <table>
 <tr></tr>
 <tr>
@@ -57,7 +59,7 @@ September 29th, 2016
 </tr>
 <tr>
 <td colspan="4">
-<a href="https://github.com/BStaff1986/Dataquest-Assignments/tree/master/Guided%20Project%20-%20Analyzing%20NYC%20HS%20data">Analyzing NYC High Schools</a>
+<a href="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Analyzing%20NYC%20HS%20data/Schools.ipynb">Analyzing NYC High Schools</a>
 </td>
 </tr>
 <tr>
@@ -86,18 +88,25 @@ September 28th, 2016
 <tr>
 <td colspan="4">
 
-In this guided project, I downloaded several datasets containing information about New York City schools including data such as class sizes, SAT scores, racial demographics, and even school reviews from parents, students, and teachers. Correlations were analyzed with a heatmap. Schools grouped by district with their reported safety scores averaged and then plotted onto a map with color-coordinated dots. The dots suggested some skewness to the report scores and so a bell curve of report scores was graphed and analyzed.
+In this guided project, I downloaded several datasets containing information about New York City schools including data such as class sizes, SAT scores, racial demographics, and even school reviews from parents, students, and teachers. Correlations were analyzed with a heatmap. Schools grouped by district with their reported safety scores averaged and then plotted onto a map with color-coordinated dots. The dots suggested some skewness to the report scores and so a bell curve of report scores was graphed and analyzed.<p>
 <img src="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Analyzing%20NYC%20HS%20data/images/heatmap.png">
 <img src="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Analyzing%20NYC%20HS%20data/images/nyc.png"><br>
 </td>
 </tr>
 <tr>
-<td colspan="4"><b>Dataset</b></td>
+<td colspan="4"><b>Datasets</b></td>
 </tr>
 <tr>
 <td colspan="4">
 <ul>
-<li>ENTER DATASET HERE</li>
+<li>ap_2010.csv</li>
+<li>class_size.csv</li>
+<li>demographics.csv</li>
+<li>graduation.csv</li>
+<li>hs_directory.csv</li>
+<li>sat_results.csv</li>
+<li>survey_all.txt</li>
+<li>survey_d75.txt</li>
 </ul>
 </td>
 </tr>
