@@ -45,7 +45,7 @@ September 29th, 2016
 <tr>
 <td colspan="4">
 <ul>
-<li>ENTER DATASET HERE</li>
+<li>bike_rental_hour.csv - <a href='https://www.capitalbikeshare.com/system-data'>Capital Bikeshare</a> data cleaned and combined by Dataquest</li>
 </ul>
 </td>
 </tr>
@@ -98,8 +98,9 @@ In this guided project, I downloaded several datasets containing information abo
 </tr>
 <tr>
 <td colspan="4">
+Datasets supplied by <a href='http://schools.nyc.gov/Accountability/tools/survey/2011.htm'>NYC Department of Education</a>
 <ul>
-<li>ap_2010.csv</li>
+<li>ap_2010.csv - Advanced Placement test data</li>
 <li>class_size.csv</li>
 <li>demographics.csv</li>
 <li>graduation.csv</li>
