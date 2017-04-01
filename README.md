@@ -148,7 +148,7 @@ July 23rd, 2016
 <td colspan="4">
 
 DESCRIPTION HERE<p>
-<p align="center"><img src="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Projects%20-%20Customizing%20Data%20Visualizations/images/four_ax.png" width="350">
+<p align="center"><img src="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Customizing%20Data%20Visualizations/images/four_ax.png" width="350">
 </td>
 </tr>
 <tr>
