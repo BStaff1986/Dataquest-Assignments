@@ -328,6 +328,58 @@ DESCRIPTION HERE
 </tr>
 <tr>
 <td colspan="4">
+<a href="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Analyzing%20Movie%20Reviews/Fandango_Score_Comparison.ipynb">Analyzing Movie Reviews</a>
+</td>
+</tr>
+<tr>
+<td><b>Path</b></td>
+<td><b>Module</b></td>
+<td><b>Course</b></td>
+<td><b>Date</b></td>
+</tr>
+<tr>
+<td>
+Data Analyst
+</td>
+<td>
+Probability And Statistics
+</td>
+<td>
+Probability And Statistics In Python: Beginner
+</td>
+<td>
+September 28th, 2016
+</td>
+</tr>
+<tr>
+<td colspan="4"><b>Description</b></td>
+</tr>
+<tr>
+<td colspan="4">
+DESCRIPTION HERE
+<p align="center"><img src="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Analyzing%20Movie%20Reviews/images/fandango.png" width="350">
+</td>
+</tr>
+<tr>
+<td colspan="4"><b>Dataset</b></td>
+</tr>
+<tr>
+<td colspan="4">
+<ul>
+<li>bike_rental_hour.csv</li>
+</ul>
+<p>Data provided by<a href='https://fivethirtyeight.com/features/fandango-movies-ratings/'>FiveThirtyEight</a> from their article on Fandango movie review scores
+</td>
+</tr>
+</table>
+
+<table>
+<tr></tr>
+<tr>
+<td colspan="4"><b>Project</b></td>
+</tr>
+<tr>
+<td colspan="4">
 <a href="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Analyzing%20NYC%20HS%20data/Schools.ipynb">Analyzing NYC High Schools</a>
 </td>
 </tr>
