@@ -276,6 +276,57 @@ DESCRIPTION HERE<p>
 </tr>
 <tr>
 <td colspan="4">
+<a href="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Investigating%20Airplane%20Accidents/airplane_accidents.ipynb">Investigating Airplane Accidents</a>
+</td>
+</tr>
+<tr>
+<td><b>Path</b></td>
+<td><b>Module</b></td>
+<td><b>Course</b></td>
+<td><b>Date</b></td>
+</tr>
+<tr>
+<td>
+Data Analyst
+</td>
+<td>
+Advanced Python And Computer Science
+</td>
+<td>
+Data Structures And Algorithms
+</td>
+<td>
+September 20th, 2016
+</td>
+</tr>
+<tr>
+<td colspan="4"><b>Description</b></td>
+</tr>
+<tr>
+<td colspan="4">
+DESCRIPTION HERE
+</td>
+</tr>
+<tr>
+<td colspan="4"><b>Datasets</b></td>
+</tr>
+<tr>
+<td colspan="4">
+<ul>
+<li>AirplaneAccidents.txt</li>
+</ul>
+<p>Datasets supplied by <a href='https://www.ntsb.gov/_layouts/ntsb.aviation/index.aspx'>National Transport Safety Board</a>
+</td>
+</tr>
+</table>
+
+<table>
+<tr></tr>
+<tr>
+<td colspan="4"><b>Project</b></td>
+</tr>
+<tr>
+<td colspan="4">
 <a href="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Analyzing%20NYC%20HS%20data/Schools.ipynb">Analyzing NYC High Schools</a>
 </td>
 </tr>
