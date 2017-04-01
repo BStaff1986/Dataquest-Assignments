@@ -94,7 +94,8 @@ July 22nd, 2016
 <td colspan="4">
 
 DESCRIPTION HERE<p>
-<p align="center"><img src="" width="350">
+<p align='center'><img src="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Visualizing%20Pixar-s%20Rollercoaster/images/pixar1.png" height="200">
+<img src="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Visualizing%20Pixar-s%20Rollercoaster/images/pixar2.png" height="200"><br></p>
 </td>
 </tr>
 <tr>
