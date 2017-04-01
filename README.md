@@ -118,7 +118,7 @@ DESCRIPTION HERE<p>
 </tr>
 <tr>
 <td colspan="4">
-<a href="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Projects%20-%20Customizing%20Data%20Visualizations/Basics.ipynb">Custom Data Visualization</a>
+<a href="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Customizing%20Data%20Visualizations/recent_grad_comparison.ipynb">Custom Data Visualization</a>
 </td>
 </tr>
 <tr>
@@ -224,7 +224,7 @@ DESCRIPTION HERE<p>
 </tr>
 <tr>
 <td colspan="4">
-<a href="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Preparing%20an%20SQL%20database/academy_awards.ipynb">Creating Relations In SQLite</a>
+<a href="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Creating%20relations%20in%20SQLite/Creating%20Relations%20SQLite3.ipynb">Creating Relations In SQLite</a>
 </td>
 </tr>
 <tr>
