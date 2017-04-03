@@ -35,7 +35,7 @@ July 20th, 2016
 </tr>
 <tr>
 <td colspan="4">
-In this guided project, a dataset containing information about citizens killed by police in 2015 was explored. Race and socioeconomic factors were analyzed. US State Census data was merged with this dataset to create a rate statistic which describes the frequency in which citizens are killed by police in each state. Finally, the top and bottom 10 states as sorted by the police killing rate statistic are compared by their mean incomes and racial proportions.<p>
+In this guided project, a dataset containing information about citizens killed by police in 2015 was explored. Race and socioeconomic factors were analyzed. US State Census data was merged with this dataset to create a rate statistic which describes the frequency in which citizens were killed by police in each state. Finally, the top and bottom 10 states as sorted by the police killing rate statistic are compared by their mean incomes and racial proportions.<p>
 <ul>
 Libraries used:<p>
 <li>pandas</li>
