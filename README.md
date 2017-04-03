@@ -38,7 +38,14 @@ July 20th, 2016
 <tr>
 <td colspan="4">
 
-DESCRIPTION HERE<p>
+In this guided project, a dataset containing information about citizens killed by police in 2015 was explored. Race and socioeconomic data compared. US State Census data is merged with this data set to create a rate statistic which describes the frequency citizens are killed by police by state. Finally, the top and bottom 10 states as sorted by the police killing rate statistic are compared by their mean incomes and racial proportions.<p>
+<ul>
+Libraries used:
+<li>pandas</li>
+<li>matplotlib</li>
+<li>numpy</li>
+<p>
+
 <p align="center"><img src="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Police%20Killings/images/police_killings.png" width="350">
 <img src="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Police%20Killings/images/police_killings2.png" width="350"></p><br>
 </td>
@@ -92,8 +99,12 @@ July 22nd, 2016
 </tr>
 <tr>
 <td colspan="4">
-
-DESCRIPTION HERE<p>
+In this guided project, the financial and critical successes of all Pixar movies created between 1995-2015 are explored. Graphs created with pandas's plotting methods are used to compare reviews from various movie critique websites. Another graph displays the share of Pixar's domestic and international revenue for each film.<p>
+Libraries used:
+<li>pandas</li>
+<li>matplotlib</li>
+<li>Seaborn</li>
+<p>
 <p align='center'><img src="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Visualizing%20Pixar-s%20Rollercoaster/images/pixar1.png" height="200">
 <img src="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Visualizing%20Pixar-s%20Rollercoaster/images/pixar2.png" height="200"><br></p>
 </td>
@@ -146,8 +157,13 @@ July 23rd, 2016
 </tr>
 <tr>
 <td colspan="4">
+The purpose of this guided project was to apply our knowledge of matplotlib customization options. Using a dataset describing the outcomes and gender of recent graduates from 173 different majors, a pair of graphs are created. Code is used to add and rotate labels, constrain the range of the graph, and to create a figure with 4 subplots.<p>
 
-DESCRIPTION HERE<p>
+Libraries used:
+<li>pandas</li>
+<li>matplotlib</li>
+
+<p>
 <p align="center"><img src="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Customizing%20Data%20Visualizations/images/four_ax.png" width="350">
 </td>
 </tr>
@@ -200,7 +216,12 @@ August 13th, 2016
 <tr>
 <td colspan="4">
 
-DESCRIPTION HERE<p>
+This project is the first of a two part SQL guided project. In this half, a dataset of Academy Award winners is prepared and imported into a newly created SQL database.<p>
+
+Libraries used:
+<li>pandas</li>
+<li>sqlite3</li>
+
 <p align="center"><img src="" width="350">
 </td>
 </tr>
@@ -252,8 +273,12 @@ August 28th, 2016
 </tr>
 <tr>
 <td colspan="4">
-
-DESCRIPTION HERE<p>
+In part 2 of the SQL guided project, a new SQL table is created to store information about Academy Award ceremonies (namely, who hosted the event) from 2000 to 2010. A one-to-many connection is made between the nominations and ceremonies table by adding a foreign keys column to the nominations table.<br>
+Next, a many-to-many connection is made by creating an actors and movies table which is then connected by a join table. <p>
+Libraries used:
+<li>pandas</li>
+<li>sqlite3</li>
+<p>
 
 </td>
 </tr>
@@ -305,7 +330,11 @@ September 20th, 2016
 </tr>
 <tr>
 <td colspan="4">
-DESCRIPTION HERE
+In this guided project, a non-CSV dataset is imported and cleaned. A list of dictionaries is used to store the data rather instead of a pandas DataFrame. After the data is properly prepared, a pair of functions are written to perform a cursory exploration of the data. 
+
+Libraries used:
+<li>collections.Counter</li>
+
 </td>
 </tr>
 <tr>
@@ -356,7 +385,7 @@ September 28th, 2016
 </tr>
 <tr>
 <td colspan="4">
-DESCRIPTION HERE
+A dataset containing the review scores from Metacritic, IMDB, Rotten Tomatoes, and Fandango for 146 films is analyzed. The data is normalized and rounded to create a common scale for comparison. Correlation and linear regression values are calculate while exploring the relationship between Metacritic and Fandango scores. 
 <p align="center"><img src="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Analyzing%20Movie%20Reviews/images/fandango.png" width="350">
 </td>
 </tr>
@@ -408,8 +437,15 @@ September 28th, 2016
 </tr>
 <tr>
 <td colspan="4">
-
-In this guided project, I downloaded several datasets containing information about New York City schools including data such as class sizes, SAT scores, racial demographics, and even school reviews from parents, students, and teachers. Correlations were analyzed with a heatmap. Schools grouped by district with their reported safety scores averaged and then plotted onto a map with color-coordinated dots. The dots suggested some skewness to the report scores and so a bell curve of report scores was graphed and analyzed.<p><p>
+Datasets containing information about New York City schools including class sizes, SAT scores, racial demographics and survey results are imported and cleaning. Correlations between SAT scores and all other numerical dataset values are calculated and visualized with a heatmap. Schools are grouped by district with their reported safety scores averaged and then plotted onto a map with color-coordinated dots. Skewness seen on the map graphic is then visualized with a graphic of a probability density function.<p>
+Libraries used:
+<li>pandas</li>
+<li>re</li>
+<li>numpy</li>
+<li>Seaborn</li>
+<li>matplotlib</li>
+<li>Basemap</li>
+<p>
 <img src="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Analyzing%20NYC%20HS%20data/images/heatmap.png">
 <img src="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Analyzing%20NYC%20HS%20data/images/nyc.png"><br>
 </td>
@@ -469,7 +505,18 @@ September 29th, 2016
 </tr>
 <tr>
 <td colspan="4">
-<p>Predicting Bike Rentals In this guided project, I downloaded a dataset containing information describing public bike rentals in Washington, DC. Using SKLearn, linear regression, decision tree, and random forest models were created and tested to see which could predict the number of bikes rented with the greatest accuracy..</p>
+Data from a bike sharing program is imported and briefly explored using correlations and a histogram. Feature engineering the values in the hour column into one of four 6-hour periods. The data is then fed into three machine learning models and their accuracy is compared using root mean squared errors.<p>
+Libraries used:
+<li>pandas</li>
+<li>matplotlib</li>
+<li>SKLearn
+    <ul>
+    <li>linear_model.LinearRegression</li>
+    <li>tree.DecisionTreeRegressor</li>
+    <li>ensemble.RandomForestRegressor</li>
+    </ul>
+</li>
+<p>
 </td>
 </tr>
 <tr>
