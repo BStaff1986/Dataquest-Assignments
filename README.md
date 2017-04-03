@@ -452,8 +452,9 @@ Libraries used:<p>
 <li>matplotlib</li>
 <li>Basemap</li>
 <p>
+<p align='center'>
 <img src="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Analyzing%20NYC%20HS%20data/images/heatmap.png">
-<img src="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Analyzing%20NYC%20HS%20data/images/nyc.png"><br>
+<img src="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Analyzing%20NYC%20HS%20data/images/nyc.png"></p>
 </td>
 </tr>
 <tr>
