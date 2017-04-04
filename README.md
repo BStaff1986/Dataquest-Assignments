@@ -96,7 +96,7 @@ July 22nd, 2016
 </tr>
 <tr>
 <td colspan="4">
-In this guided project, the financial and critical successes of all Pixar movies created between 1995-2015 are explored. Graphs created with pandas's plotting methods are used to compare reviews from various movie critique websites. Another graph displays the share of Pixar's domestic and international revenue for each film.<p>
+In this guided project, the financial and critical successes of Pixar movies created between 1995-2015 are explored. Graphs created with pandas's plotting methods are used to compare reviews from various movie review websites. Another graph displays the share of Pixar's domestic and international revenue for each film.<p>
 
 Libraries used:<p>
 <li>pandas</li>
@@ -155,7 +155,7 @@ July 23rd, 2016
 </tr>
 <tr>
 <td colspan="4">
-The purpose of this guided project was to apply our knowledge of matplotlib customization options. Using a dataset describing the outcomes and gender of recent graduates from 173 different majors, a pair of graphs are created. Code is used to add and rotate labels, constrain the range of the graph, and to create a figure with 4 subplots.<p>
+The purpose of this guided project was to apply our knowledge of matplotlib customization options. Using a dataset describing employment outcomes and gender of recent graduates from 173 different majors, a pair of graphs are created. Code is used to add and rotate labels, constrain the range of the graph, and to create a figure with 4 subplots.<p>
 
 Libraries used:<p>
 <li>pandas</li>
@@ -214,7 +214,7 @@ August 13th, 2016
 <tr>
 <td colspan="4">
 
-This project is the first of a two part SQL guided project. In this half, a dataset of Academy Award winners is prepared and imported into a newly created SQL database.<p>
+This project is the first of a two-part SQL guided project. In part 1, a dataset of Academy Award winners is prepared and imported into a newly created SQL database.<p>
 
 Libraries used:<p>
 <li>pandas</li>
@@ -328,7 +328,7 @@ September 20th, 2016
 </tr>
 <tr>
 <td colspan="4">
-In this guided project, a non-CSV dataset is imported and cleaned. A list of dictionaries is used to store the data rather instead of a pandas DataFrame. After the data is properly prepared, a pair of functions are written to perform a cursory exploration of the data.<p>
+In this guided project, a non-CSV dataset is imported and cleaned. A list of dictionaries is used to store the data rather than a pandas DataFrame. After the data is properly prepared, a pair of functions are written to perform a cursory exploration of the data.<p>
 
 Libraries used:<p>
 <li>collections.Counter</li>
@@ -383,7 +383,7 @@ September 28th, 2016
 </tr>
 <tr>
 <td colspan="4">
-A dataset containing the review scores from Metacritic, IMDB, Rotten Tomatoes, and Fandango for 146 films is analyzed. The data is normalized and rounded to create a common scale for comparison. Correlation and linear regression values are calculate while exploring the relationship between Metacritic and Fandango scores.<p>
+A dataset containing the review scores from Metacritic, IMDB, Rotten Tomatoes, and Fandango for 146 films is analyzed. The data is normalized and rounded to create a common scale for comparison. Correlation and linear regression values are calculated while exploring the relationship between Metacritic and Fandango scores.<p>
 
 Libraries used:<p>
 <li>pandas</li>
@@ -442,7 +442,7 @@ September 28th, 2016
 </tr>
 <tr>
 <td colspan="4">
-Datasets containing information about New York City schools including class sizes, SAT scores, racial demographics and survey results are imported and cleaning. Correlations between SAT scores and all other numerical dataset values are calculated and visualized with a heatmap. Schools are grouped by district with their reported safety scores averaged and then plotted onto a map with color-coordinated dots. Skewness seen on the map graphic is then visualized with a graphic of a probability density function.<p>
+Datasets containing information about New York City schools including class sizes, SAT scores, racial demographics and survey results are imported and cleaned. Correlations between SAT scores and all other numerical dataset values are calculated and visualized with a heatmap. Schools are grouped by district with their reported safety scores averaged and then plotted onto a map with color-coordinated dots. Skewness seen on the map graphic is then visualized with a graphic of a probability density function.<p>
 
 Libraries used:<p>
 <li>pandas</li>
@@ -512,7 +512,7 @@ September 29th, 2016
 </tr>
 <tr>
 <td colspan="4">
-Data from a bike sharing program is imported and briefly explored using correlations and a histogram. Feature engineering the values in the hour column into one of four 6-hour periods. The data is then fed into three machine learning models and their accuracy is compared using root mean squared errors.<p>
+Data from a bike sharing program is imported and briefly explored using correlations and a histogram. Some feature engineering is done to improve the data's suitability for machine learning models. Next, the dataset is used to train three different machine learning models. Their accuracy is compared using root mean squared errors.<p>
 
 Libraries used:<p>
 <li>pandas</li>
