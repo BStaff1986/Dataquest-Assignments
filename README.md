@@ -43,7 +43,7 @@ Libraries used:<p>
 <li>numpy</li>
 <p>
 
-<p align="center"><img src="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Police%20Killings/images/police_killings.png" width="350">
+<p align="center"><img src="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Police%20Killings/images/police_killings1.png" width="350">
 <img src="https://github.com/BStaff1986/Dataquest-Assignments/blob/master/Guided%20Project%20-%20Police%20Killings/images/police_killings2.png" width="350"></p><br>
 </td>
 </tr>
